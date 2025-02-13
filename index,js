@@ -1,5 +1,5 @@
-let sum = [1, 2, 3, 4, 5]
- //sum.push(6,7,8)
+//let sum = [1, 2, 3, 4, 5];
+//sum.push(6,7,8)]
 //console.log(sum);
 // sum.toString()
 // console.log(sum.toString());
@@ -14,5 +14,8 @@ let sum = [1, 2, 3, 4, 5]
 //ok=[...sum,...sub]
 //console.log(ok);//
 //b=sum.reverse();
-sub=sum.slice(4)
-console.log(sub)
+//sub = sum.flatMap((x) => [x, x + 3]);
+//console.log(sub);
+
+
+
